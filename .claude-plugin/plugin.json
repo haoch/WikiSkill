@@ -1,0 +1,10 @@
+{
+  "name": "wikiskill",
+  "description": "Evolve durable, reusable Claude Code Agent Skills from your own task examples using the WikiSkill three-layer (raw traces / wiki knowledge base / skills) self-improvement loop from arXiv:2608.27454.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Chen, Hao"
+  },
+  "homepage": "https://arxiv.org/html/2608.27454",
+  "license": "MIT"
+}
