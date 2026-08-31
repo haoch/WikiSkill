@@ -1,3 +1,5 @@
 # WikiSkill Claude Plugin
 
-https://arxiv.org/html/2608.27454
+## Reference:
+* **WikiSkill** - [Compiling Agent Experience into Persistent Knowledge for Skill Evolution]
+(https://arxiv.org/html/2608.27454)
